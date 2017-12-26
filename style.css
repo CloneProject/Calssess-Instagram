@@ -59,6 +59,65 @@ header {
     margin-left, margin-right: auto;
 }
 */
+.right{
+    margin-top: 12px;
+    width: 350px;
+    height: 757px;
+}
+
+.loginbox{
+    width: 350px;
+    height: 356px;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.underinsta{
+    width: 350px;
+    height: 239px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: rgb(230,230,230);
+}
+
+form{
+    widows: 350px;
+    height: 239px;
+}
+
+.word{
+    padding-left: 8px;
+    padding-bottom: 7px;
+    padding-top: 9px;
+    width: 280px;
+    height: 18px;
+}
+
+.box{
+    width: 268px;
+    height: 36px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 6px;
+}
+
+.loginspan{
+    width: 268px;
+    height: 28px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.loginbutton{
+    width: 268px;
+    height: 26px;
+}
+
 
 footer{
     height: 104px;
